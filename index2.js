@@ -23,3 +23,4 @@ class Persona extends SerVivo {
 }
 
 Persona.moverse('juanito');
+// Ahora esta caminando:  juanito
